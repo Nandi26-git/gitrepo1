@@ -31,7 +31,7 @@ function testTomegIndex(sulyKg, magassagM) {
 }
 
 
-//Egész osztó-e
+//Egész osztó-e?
 function egeszOsztoE(szam, oszto) {
     if (szam % oszto === 0) {
         return true
