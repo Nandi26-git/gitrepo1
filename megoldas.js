@@ -1,4 +1,4 @@
-//Készítő: Kis Nándor, Junior frontend csoport, Team #11
+//Készítő Kis Nándor, Junior frontend csoport, Team #11
 function keszito() {
     console.log("Kis Nándor\nJunior frontend csoport\nTeam #11")
 }
