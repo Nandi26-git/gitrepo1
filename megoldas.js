@@ -1,6 +1,6 @@
-//Készítő
+//Készítő: Kis Nándor, Junior frontend csoport, Team #11
 function keszito() {
-    console.log("Kis Nándor\nJunior frontend\nTeam #11")
+    console.log("Kis Nándor\nJunior frontend csoport\nTeam #11")
 }
 
 // Hatványozó
